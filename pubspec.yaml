@@ -1,9 +1,9 @@
 name: roamio_draggable_sheet
 description: "Roamio's draggable scrollable sheet. A widget that can be dragged and scrolled in a single gesture and snapped to a list of extents."
 version: 0.0.1
-homepage:
-repository:
-issue_tracker:
+homepage: https://github.com/roamio-app/roamio_draggable_sheet
+repository: https://github.com/roamio-app/roamio_draggable_sheet
+issue_tracker: https://github.com/roamio-app/roamio_draggable_sheet/issues
 
 environment:
   sdk: '>=3.3.0-279.0.dev <4.0.0'
