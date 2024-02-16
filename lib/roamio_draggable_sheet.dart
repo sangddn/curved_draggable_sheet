@@ -702,7 +702,7 @@ class _RDraggableScrollableSheetState extends State<RDraggableScrollableSheet> {
             position.goBallistic(0);
           }
         },
-        debugLabel: 'DraggableScrollableSheet.snap',
+        // debugLabel: 'DraggableScrollableSheet.snap',
       );
     }
   }
